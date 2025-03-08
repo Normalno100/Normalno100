@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29heXAyNjJqM3c0Z3QyMmhrdDdtZmkxb3BlcjdocmhyYnhoZGpzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"width="100"/>
+</div>
 
 <!--
 **Normalno100/Normalno100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
