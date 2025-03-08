@@ -20,6 +20,8 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Normalno100&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normalno100&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
+
 
 <!--
 **Normalno100/Normalno100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
